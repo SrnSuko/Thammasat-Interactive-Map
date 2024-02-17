@@ -102,3 +102,16 @@ body {
   cursor: pointer;
   transition: 0.3s;
 }
+
+.buildingtemp:hover {opacity: 0.7;}
+
+.buildingtemp {
+  position: fixed;
+  top: 75%;
+  left: 19%;
+  width: 14.25%;
+  height: 50px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
